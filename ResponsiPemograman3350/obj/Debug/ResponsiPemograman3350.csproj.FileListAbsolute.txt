@@ -1,0 +1,7 @@
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\obj\Debug\ResponsiPemograman3350.csprojAssemblyReference.cache
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\obj\Debug\ResponsiPemograman3350.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\bin\Debug\ResponsiPemograman3350.exe.config
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\bin\Debug\ResponsiPemograman3350.exe
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\bin\Debug\ResponsiPemograman3350.pdb
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\obj\Debug\ResponsiPemograman3350.exe
+D:\Programming\C#\Responsi\ResponsiPemograman3350\ResponsiPemograman3350\obj\Debug\ResponsiPemograman3350.pdb
